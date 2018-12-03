@@ -1,0 +1,4 @@
+﻿  Quelle.cpp
+c:\users\vmadmin\documents\visual studio 2017\projects\project2\project2\quelle.cpp(7): warning C4326: Der Rückgabetyp von "main" sollte "int" und nicht "void" sein
+c:\users\vmadmin\documents\visual studio 2017\projects\project2\project2\quelle.cpp(17): warning C4477: "printf": Die Formatzeichenfolge "%d" erfordert ein Argument vom Typ "int", das variadic-Argument "1" weist aber den Typ "double" auf.
+  Project2.vcxproj -> C:\Users\vmadmin\Documents\Visual Studio 2017\Projects\Project2\Debug\Project2.exe
