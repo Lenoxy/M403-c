@@ -20,5 +20,11 @@ void main() {
 	summe /= 5;
 	printf("Die Durchschnitstemperatur ist: %lg Grad Celsius\n", summe);
 
+
+
+	char array1[3];
+	array1[0] = "x";
+
+
 	system("pause");
 }
